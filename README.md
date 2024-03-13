@@ -1,3 +1,3 @@
-# Sample project
+# Krut AI
 
-This is a sample project created by Mithun Mohandas. Its a collaboration of React with Typescript, Tailwind CSS and Vite.
+Website Launching soon
